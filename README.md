@@ -28,6 +28,7 @@ To run tests related to this project:
 - php artisan test
 
 Import Posts
+
 The following needs a cron job on your system:
 
 - php artisan schedule:run
